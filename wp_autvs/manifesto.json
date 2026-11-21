@@ -78,5 +78,15 @@
         "name":  "AUTVS-16-rede-neural-onda.jpg",
         "size":  316794,
         "sha256":  "2B60C85302B5D4672FFA2A21757C6ADC4A070083FBB6FE7F512CF9FEB138C7EC"
+    },
+    {
+        "name":  "AUTVS-17-luz-suave.jpg",
+        "size":  377784,
+        "sha256":  "8516F3CE95F8ADDDA380DE6BBAEFC9B3A7F163A3FF18CCDAD5148947F5CE9757"
+    },
+    {
+        "name":  "AUTVS-18-luz-suave-central.jpg",
+        "size":  373655,
+        "sha256":  "E212EAA5A815BE4B6C86FC594920D998790BE5FC9941A8ACC661CE4875861829"
     }
 ]

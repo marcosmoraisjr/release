@@ -28,5 +28,15 @@
         "name":  "Barreto-06-triangulo.jpg",
         "size":  255881,
         "sha256":  "BADD8E14D440C6AB4317D77A938F1FDCEDE3393FCBC2CE93240483FC2AE7F52B"
+    },
+    {
+        "name":  "Barreto-13-luz-suave.jpg",
+        "size":  382299,
+        "sha256":  "CEAA654F9694B0F7DD70BB85350F2278EB3C384262467A0C175AA02C4620ADD5"
+    },
+    {
+        "name":  "Barreto-14-luz-suave-central.jpg",
+        "size":  378820,
+        "sha256":  "FF0A04A1086463A9B8759419983DB2817AF5E52F66E040309529F0BE2EC76EF6"
     }
 ]
