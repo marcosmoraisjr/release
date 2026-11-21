@@ -1,0 +1,32 @@
+[
+    {
+        "name":  "Barreto-01-azul-mascote.jpg",
+        "size":  266683,
+        "sha256":  "02A5F2011C72891F700450C36502B7A3652DC3D4EFDD3583A268420117F3047B"
+    },
+    {
+        "name":  "Barreto-02-vermelho-mascote.jpg",
+        "size":  275002,
+        "sha256":  "8525AA50CAF60EF6C0308272A8E727C3E91EA3B93C9BB9293987C1D925CFBC63"
+    },
+    {
+        "name":  "Barreto-03-claro-mascote.jpg",
+        "size":  233061,
+        "sha256":  "ACA617058DE6DD5CAFE44540D6786209476148DB24EA2588488E39E425FAF734"
+    },
+    {
+        "name":  "Barreto-04-marca-azul.jpg",
+        "size":  182486,
+        "sha256":  "E50C6670E4237456CEBF3F0CD0FADA3C84D11D01178A0D338A1CBD30235A82CA"
+    },
+    {
+        "name":  "Barreto-05-concreto.jpg",
+        "size":  731480,
+        "sha256":  "831DBABFD141EB714D107E87BDAC3246EDD56DFAD6AB79B4ECFEC5CD54DCA4A9"
+    },
+    {
+        "name":  "Barreto-06-triangulo.jpg",
+        "size":  255881,
+        "sha256":  "BADD8E14D440C6AB4317D77A938F1FDCEDE3393FCBC2CE93240483FC2AE7F52B"
+    }
+]
