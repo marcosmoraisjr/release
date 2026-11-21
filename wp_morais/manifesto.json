@@ -68,5 +68,15 @@
         "name":  "MORAIS-14-rede-neural-violeta.jpg",
         "size":  254762,
         "sha256":  "DADD762002E917D9882CD3D3351C894E7D9298BE40323B55E7ECBCE282AE7A8B"
+    },
+    {
+        "name":  "MORAIS-15-luz-suave.jpg",
+        "size":  379260,
+        "sha256":  "48385E9733D2427C317CAE65D1A582FF3CC23F0AB7809A1AAD8B1AA30496CF02"
+    },
+    {
+        "name":  "MORAIS-16-luz-suave-central.jpg",
+        "size":  374910,
+        "sha256":  "5BFD802D993D22777184992FFB88D8A25558BC93D2AF95AD9F8A83430389BCE2"
     }
 ]

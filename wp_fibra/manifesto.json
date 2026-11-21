@@ -1,5 +1,15 @@
 [
     {
+        "name":  "Fibrasol-02-luz-suave.jpg",
+        "size":  381000,
+        "sha256":  "678CD41EC0121A5DCF00C2B4DC9583C70A29D7C637E6B79DDD4077E257E1A08C"
+    },
+    {
+        "name":  "Fibrasol-03-luz-suave-central.jpg",
+        "size":  377333,
+        "sha256":  "2F5F34CDD40572B149CB0B85F5AAA1C57AA23D0A8783D6463D83C7F04E4C8748"
+    },
+    {
         "name":  "Fibrasol-azul-1920x1080-1.jpg",
         "size":  61668,
         "sha256":  "303A13CF6DB146D0B5A00B662727AD02403C9446C23A171BF0933B598B53B692"
