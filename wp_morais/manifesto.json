@@ -23,5 +23,40 @@
         "name":  "MORAIS-05-fita-noite.jpg",
         "size":  246558,
         "sha256":  "AF8DB12FB2C338E43273B61B1E1EBC2E74961D7489EC9BC29AC3450575C1C1DA"
+    },
+    {
+        "name":  "MORAIS-06-paisagem-entardecer.jpg",
+        "size":  635621,
+        "sha256":  "6D1EDCCC38C0EAFDE4FAAA3A5D180365B913CA30F110419AD134B7A90ACCB1E6"
+    },
+    {
+        "name":  "MORAIS-07-paisagem-dia.jpg",
+        "size":  621852,
+        "sha256":  "B31EF9E1866D50BED3DF8546CC39CC49FDF6222482B90BB77831716099A21EBF"
+    },
+    {
+        "name":  "MORAIS-08-aurora-de-linhas.jpg",
+        "size":  643755,
+        "sha256":  "E0455B52A7D088AC0891DAE0F7077D5CF997301D28BEA9ED75C0D41813A71529"
+    },
+    {
+        "name":  "MORAIS-09-aurora-ciano.jpg",
+        "size":  638313,
+        "sha256":  "B08BEFA834D43FC2705EFBA843FCAE5B8B9DA501B9A4D3AB1BBD224203F7C583"
+    },
+    {
+        "name":  "MORAIS-10-degrade-petroleo.jpg",
+        "size":  525556,
+        "sha256":  "A1E6C90F4487B703D39210B0E17276AD9E3EC31A4ABE6CABDC442FB22CE60FA3"
+    },
+    {
+        "name":  "MORAIS-11-degrade-violeta.jpg",
+        "size":  526662,
+        "sha256":  "E38AFE1E064DD54327CE989165E1F78A687C2DBECE32D1A0F23F1DC459A7EF71"
+    },
+    {
+        "name":  "MORAIS-12-vidro-simbolo.jpg",
+        "size":  130510,
+        "sha256":  "A104499BA3921B18CF300491AB73C3DBFDE3B82C99BBCF3ECD21BBD0C71E4C58"
     }
 ]
