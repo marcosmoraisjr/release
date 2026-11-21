@@ -1,27 +1,27 @@
 [
     {
-        "name":  "MORAIS-01-cordilheira.jpg",
-        "size":  135213,
-        "sha256":  "B7F425EFC11FA4A085D799B096E76FA15CEC95ED17521511C69D059DBAA610E9"
+        "name":  "MORAIS-01-ondas-de-pontos.jpg",
+        "size":  267060,
+        "sha256":  "2249322C8F4708266237F96AE0DC75D494DA8010C99BFF988A507F337E26596A"
     },
     {
-        "name":  "MORAIS-02-picos.jpg",
-        "size":  108306,
-        "sha256":  "DBF0C9411D5AEAC360612EC5F36EC45A68DEBDF0ED080FD00953C14C9178F2CF"
+        "name":  "MORAIS-02-fita-petroleo.jpg",
+        "size":  296810,
+        "sha256":  "AC5F956F7235B6099FCD2B25E0C5D54C2C6807470C68E5B493736B27C02E9FF2"
     },
     {
-        "name":  "MORAIS-03-facetas.jpg",
-        "size":  132441,
-        "sha256":  "A1EC48950F636A4B183183B10CFA517DECA3AFDCB14CFBACED1AFF3EB113054F"
+        "name":  "MORAIS-03-pontos-noite.jpg",
+        "size":  280673,
+        "sha256":  "DCACE82E8A453B59AE54A8F558BF2FB965D043E47C67E152B932D99661D2B520"
     },
     {
-        "name":  "MORAIS-04-claro.jpg",
-        "size":  95913,
-        "sha256":  "EAA91BFEF5CDEF6A40748D2B2B208DED55914DE948E7F003628C90B37890461E"
+        "name":  "MORAIS-04-grade-ondulada.jpg",
+        "size":  317577,
+        "sha256":  "3BE140967E0B24E0D2D23DB76B7D0F4AD78A87CB70844F44191A3BFB15CDB216"
     },
     {
-        "name":  "MORAIS-05-relevo.jpg",
-        "size":  622355,
-        "sha256":  "61202B0CCB407B8376440F1E45C08CD08292D9B99C7C1E3EF785FA6C899AF436"
+        "name":  "MORAIS-05-fita-noite.jpg",
+        "size":  246558,
+        "sha256":  "AF8DB12FB2C338E43273B61B1E1EBC2E74961D7489EC9BC29AC3450575C1C1DA"
     }
 ]
