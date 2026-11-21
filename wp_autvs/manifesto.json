@@ -1,32 +1,32 @@
 [
     {
-        "name":  "AUTVS-01-facetas.jpg",
-        "size":  159242,
-        "sha256":  "A974BFC386321AEFED2030187187335002E76F74504CD284EA37F6AFA09B4F14"
+        "name":  "AUTVS-01-ondas-de-pontos.jpg",
+        "size":  299750,
+        "sha256":  "216FB0ADE087CDB4E9FF96512294BEECA3988C15478C152A274E371EE46928CA"
     },
     {
-        "name":  "AUTVS-02-constelacao.jpg",
-        "size":  138133,
-        "sha256":  "C2213CDE12A91737CE0B055BECB48830EC4FCEC6F5B578FCFB301820D3D834EB"
+        "name":  "AUTVS-02-fita-violeta.jpg",
+        "size":  234315,
+        "sha256":  "B10BD154B6708866760F13E7E641879A19B3A884F62B3496C23703CFA692EFBE"
     },
     {
-        "name":  "AUTVS-03-feixe.jpg",
-        "size":  110076,
-        "sha256":  "E0B362541EDF301DB42D281F75CC841C1FD2471293F9D5C0D04595977803A454"
+        "name":  "AUTVS-03-pontos-ciano.jpg",
+        "size":  329859,
+        "sha256":  "EC81CA061DBD9A7CE8A567508E2230A31CAC601A398CF72475C51335B0340D3D"
     },
     {
-        "name":  "AUTVS-04-fluxo.jpg",
-        "size":  508494,
-        "sha256":  "6A4E1075BDA08FA89691026E9F618CDE18CF7A11C11A8D198185DFC02B728E6A"
+        "name":  "AUTVS-04-grade-ondulada.jpg",
+        "size":  328493,
+        "sha256":  "3AF6974CE071EFB7C9E5A113319FFC43D8B15B532284A4748A98DCA40991130F"
     },
     {
-        "name":  "AUTVS-05-vidro.jpg",
-        "size":  134348,
-        "sha256":  "64F3AA436B02C63F9E4F4F1CB72F5CD0EC9D271013FE530E85E4BC2016D2AD0A"
+        "name":  "AUTVS-05-pontos-violeta.jpg",
+        "size":  270786,
+        "sha256":  "EB4600F54AF1EA1A37CF300F7457B629EE7467F4D7E7666EE2C8C70AB9F15FFF"
     },
     {
-        "name":  "AUTVS-06-claro.jpg",
-        "size":  83066,
-        "sha256":  "8CC3E2EE0A03CA8A423A57CD992907D9ACA4EEBB7712746965C4F51163B2D6DF"
+        "name":  "AUTVS-06-feixe-azul.jpg",
+        "size":  220348,
+        "sha256":  "1A38280B58700082B46F9EF6E9265207D6CA099ABEB028E16B826708D99D8413"
     }
 ]
