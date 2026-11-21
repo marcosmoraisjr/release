@@ -63,5 +63,20 @@
         "name":  "AUTVS-13-vidro-simbolo.jpg",
         "size":  113911,
         "sha256":  "429258A149DB10222AEF1F7A195958B4FACE21AF68CF9DC75EE9721FFDBB8B4B"
+    },
+    {
+        "name":  "AUTVS-14-rede-neural.jpg",
+        "size":  305137,
+        "sha256":  "0F7BE6C18E53620FD6855C81B7E17204F19D3B0A40F5FA1EA6D1E9F91AD5E355"
+    },
+    {
+        "name":  "AUTVS-15-rede-neural-ambar.jpg",
+        "size":  299948,
+        "sha256":  "383AEDC967778693324786631B852A951CD8FC3A71D842E7EAFC7C1BBDB6A6F2"
+    },
+    {
+        "name":  "AUTVS-16-rede-neural-onda.jpg",
+        "size":  316794,
+        "sha256":  "2B60C85302B5D4672FFA2A21757C6ADC4A070083FBB6FE7F512CF9FEB138C7EC"
     }
 ]

@@ -58,5 +58,15 @@
         "name":  "MORAIS-12-vidro-simbolo.jpg",
         "size":  130510,
         "sha256":  "A104499BA3921B18CF300491AB73C3DBFDE3B82C99BBCF3ECD21BBD0C71E4C58"
+    },
+    {
+        "name":  "MORAIS-13-rede-neural.jpg",
+        "size":  292405,
+        "sha256":  "0BD83F0A0731A0EE67A4186B339EAC529D78B94D3DA23813DC00C6ACEA8ADFF0"
+    },
+    {
+        "name":  "MORAIS-14-rede-neural-violeta.jpg",
+        "size":  254762,
+        "sha256":  "DADD762002E917D9882CD3D3351C894E7D9298BE40323B55E7ECBCE282AE7A8B"
     }
 ]
