@@ -28,5 +28,40 @@
         "name":  "AUTVS-06-feixe-azul.jpg",
         "size":  220348,
         "sha256":  "1A38280B58700082B46F9EF6E9265207D6CA099ABEB028E16B826708D99D8413"
+    },
+    {
+        "name":  "AUTVS-07-paisagem-amanhecer.jpg",
+        "size":  636486,
+        "sha256":  "846B0CE715B3FCFB6CC470CAFCD8337B17A36A875A3ADF4FF2D95241442C9F04"
+    },
+    {
+        "name":  "AUTVS-08-paisagem-noite.jpg",
+        "size":  621117,
+        "sha256":  "308FE0A79EB069CD2291C3ED70EF50AA8CB64266FB67238AEA20563993865730"
+    },
+    {
+        "name":  "AUTVS-09-aurora-de-linhas.jpg",
+        "size":  652744,
+        "sha256":  "AD70812E7C1C6B6FD44AA75F3B5FB9B63EE2C09383AB95663FD889C91E00964E"
+    },
+    {
+        "name":  "AUTVS-10-aurora-violeta.jpg",
+        "size":  655126,
+        "sha256":  "AA6F8CDE090C860601FA03BA641D737C13A6C86E95D3D8DC519B9EBFAAADED89"
+    },
+    {
+        "name":  "AUTVS-11-degrade-prisma.jpg",
+        "size":  514136,
+        "sha256":  "F6ECE5B75DE91A3EEAFE75CF3B250B3047ABCEA109493CA1FD8ACC8E4A9001A6"
+    },
+    {
+        "name":  "AUTVS-12-degrade-azul.jpg",
+        "size":  526113,
+        "sha256":  "FBD1BA631565E4DAAAC4E39EF430CF075FD768D2F00139E552497C9875EAABF8"
+    },
+    {
+        "name":  "AUTVS-13-vidro-simbolo.jpg",
+        "size":  113911,
+        "sha256":  "429258A149DB10222AEF1F7A195958B4FACE21AF68CF9DC75EE9721FFDBB8B4B"
     }
 ]
