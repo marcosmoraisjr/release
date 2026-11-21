@@ -38,5 +38,30 @@
         "name":  "Barreto-14-luz-suave-central.jpg",
         "size":  378820,
         "sha256":  "FF0A04A1086463A9B8759419983DB2817AF5E52F66E040309529F0BE2EC76EF6"
+    },
+    {
+        "name":  "Barreto-15-ondas-azul-por-do-sol.jpg",
+        "size":  309216,
+        "sha256":  "B1E750EE8F1707D0BDEB9AE2F6F7A95B45EF9D06D1775DCA5D41CD10A1DAC338"
+    },
+    {
+        "name":  "Barreto-16-ondas-vermelho-fogo.jpg",
+        "size":  322879,
+        "sha256":  "F9CB09B9B98245726FD3BF7FA945BC17C7B0F3BA9C3D277B4ECAA800DBB5A6FB"
+    },
+    {
+        "name":  "Barreto-17-triangulos-de-luz.jpg",
+        "size":  274497,
+        "sha256":  "68A743FD5C087F49CFFF274C508CB4E7848CEB685A5D93C33C5FF9DD50DCA38A"
+    },
+    {
+        "name":  "Barreto-18-obra-ao-entardecer.jpg",
+        "size":  328082,
+        "sha256":  "45EF59C4069DF33032769D542947FF11C8F21073C37D3C17270E5085299FC09E"
+    },
+    {
+        "name":  "Barreto-19-ondas-ouro-noite.jpg",
+        "size":  353958,
+        "sha256":  "355FC1E28DDBEA77E9468D5E601E9F4DEB5A804148283BC6CE4A59ABCBFF2DCB"
     }
 ]
